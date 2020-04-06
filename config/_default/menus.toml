@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 2.5
 
 #[[main]]
   #name = "Posts"
@@ -26,11 +26,11 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 10
+  weight = 3.5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "https://www.dropbox.com/s/k3bpnwytvzg5x4n/Richard%20Adjei-Boateng_CV.pdf?dl=0"
-    weight = 20
+    weight = 4.5
