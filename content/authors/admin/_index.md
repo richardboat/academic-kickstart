@@ -71,4 +71,4 @@ user_groups:
 
 Richard Adjei-Boateng is a final year Masters Student Studying Mathematics with a specialization in Mathematical Economics at the Western Kentucky University. His research interests include copula modeling, data science and Economics. 
 
-He is also loves to play active sports.
+He also loves to play active sports.
