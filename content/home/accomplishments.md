@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2020-02-03"
-  date_end = "2020-04-03"
+  date_end = ""
   description = ""
   
 [[item]]
