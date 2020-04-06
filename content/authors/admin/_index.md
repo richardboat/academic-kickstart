@@ -69,6 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Richard Adjei-Boateng is a final year Masters student studying Mathematics with a specialization in Mathematical Economics at the Western Kentucky University. His research interests include copula modeling, data science and Economics. 
+My most rewarding experience as a Mathematics student is how it has changed my whole way of looking at things. Now, I like to disintegrate everything down to their numerical & logical essentials and analyze the underlying patterns.
+Currently, I am pursuing MS in Mathematical Economics at the  Western Kentucky University, USA. I am also working as a graduate teaching assistant at the WKU Mathematics Department. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics, University of Cape Coast, Ghana.
+I am very much passionate about the field of Economics and Data Science and aspire to be a Data Scientist in future. On a personal side, I enjoy nature, active sports, music, traveling and volunteering. 
 
-He loves to play active sports.
