@@ -32,5 +32,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "static/img/cv.pdf"
+    url = "https://www.dropbox.com/s/k3bpnwytvzg5x4n/Richard%20Adjei-Boateng_CV.pdf?dl=0"
     weight = 20
