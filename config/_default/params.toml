@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "richard.adjei-boateng053@topper.wku.edu"
-phone = "2704216094"
+phone = "2707452052-office"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,27 +97,27 @@ directions = "Enter Building(2nd floor)  and take the elevator to the 4th floor.
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 11:00", "Thursday 11:30 to 12:30"]
+office_hours = ["Monday 10:00 to 11:00-Spring 2020", "Thursday 11:30 to 12:30-spring 2020"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+#contact_links = [
+ # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+ # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+ # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+ #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  #]
 
 ############################
 ## Social
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "pic"
+#sharing_image = "pic"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
@@ -244,7 +244,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[map]
+#[map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -259,9 +259,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
-  zoom = 15
+  #engine = 2
+  #api_key = ""
+  #zoom = 15
 
 ############################
 ## Marketing

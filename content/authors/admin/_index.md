@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include copula modeling, statistical inferences, causal and effect relationships and data analysis.
+bio: My research interests include copula modeling, statistical inferential study, causal and effect study and data science research.
 
 interests:
 - Micro and Macro Economics analysis
@@ -44,20 +44,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/richardboat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ #- icon: cv
+   #icon_pack: ai
+   #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ user_groups:
 
 Richard Adjei-Boateng is a final year Masters student studying Mathematics with a specialization in Mathematical Economics at the Western Kentucky University. His research interests include copula modeling, data science and Economics. 
 
-He also loves to play active sports.
+He loves to play active sports.
