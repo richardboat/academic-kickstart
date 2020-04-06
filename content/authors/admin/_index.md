@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: Ms Mathematical Economics
+  - course: MS. Mathematical Economics
     institution: Western Kentucky University
     year: 2020
-  - course: BA in Economics and Mathematics
+  - course: BA. Economics and Mathematics
     institution: University of Cape Coast
     year: 2016
  
