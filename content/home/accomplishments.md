@@ -33,9 +33,9 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org"
   title = "Getting and Cleaning Data"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/DCFTQX2A7BYV"
   date_start = "2020-02-03"
-  date_end = ""
+  date_end = "2020-04-15"
   description = ""
   
 [[item]]
