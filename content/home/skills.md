@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "60%"
   
 [[feature]]
   icon = "chart-line"
@@ -30,6 +30,6 @@ subtitle = ""
   icon = "sass"
   icon_pack = "fas"
   name = "SAS"
-  description = "85%"
+  description = "55%"
 
 +++
