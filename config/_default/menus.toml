@@ -10,7 +10,7 @@
 
 [[main]]
   name = "What I can do"
-  url = "#file:///C:/Users/Richard%20Boat/Desktop/Application%20phd/Job%20resume/What_I_can_do.html"
+  url = "file:///C:/Users/Richard%20Boat/Desktop/Application%20phd/Job%20resume/What_I_can_do.html"
   weight = 20
 
 #[[main]]
