@@ -48,4 +48,13 @@ date_format = "Jan 2006"
   date_end = "2020-03-27"
   description = ""
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Reproducible Research"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/records/JKEBWCWSUP5N"
+  date_start = "2020-04-20"
+  date_end = "2020-05-01"
+  description = ""
 +++
