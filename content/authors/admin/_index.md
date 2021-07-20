@@ -69,7 +69,9 @@ user_groups:
 - Visitors
 ---
 
-My most rewarding experience as a Mathematics student is how it has changed my whole way of looking at things. Now, I like to disintegrate everything down to their numerical & logical essentials and analyze the underlying patterns.
-Currently, I am pursuing MS in Mathematical Economics at the  Western Kentucky University, USA. I am also working as a graduate teaching assistant at the WKU Mathematics Department. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
-I am very much passionate about the field of Economics and Data Science and aspire to be an Economist in future. On a personal side, I enjoy nature, active sports, music, traveling and volunteering. 
+Currently, I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. I am also a second year Economics PhD.(Health Economics) student at the university of Colorado, Denver. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
+I am very much passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering
+
+
+
 
