@@ -18,8 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
-  organization = "Coursera2240"
+  organization = "SAS"
+  organization_url = "https://www.coursera.org"
+  title = "The Data Scientist's toolbox"
+  url = ""
+  certificate_url = "https://www.credly.com/badges/a1ad8a6a-7836-4ec5-a228-ded32ce5ea93/public_url"
+  date_start = "2021-06-20"
+  date_end = "2021-07-18"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "The Data Scientist's toolbox"
   url = ""
