@@ -19,7 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-
+[[item]]
+  organization = "WKU"
+  organization_url = "http://catalog.wku.edu/graduate/business/economics/data-analytics-certificate/"
+  title = "Economic Data Analytics Certificate"
+  url = ""
+  certificate_url = "http://catalog.wku.edu/graduate/business/economics/data-analytics-certificate/"
+  date_start = "2018-07-23"
+  date_end = "2020-04-11"
+  description = ""
 
 [[item]]
   organization = "Coursera"

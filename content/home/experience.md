@@ -17,6 +17,37 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Colorado, Denver"
+  company_url = ""
+  location = "Colorado"
+  date_start = "2019-08-20"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Grading Health economics I
+  *Grading Principles of macro-economics
+  """
+  
+  [[experience]]
+  title = "Research Assistant"
+  company = "University of Colorado, Denver"
+  company_url = ""
+  location = "Colorado"
+  date_start = "2019-08-20"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Research assistant to Dr. Daniel Rees
+  *Grading Principles of macro-economics
+  """
+  
+  
+
 [[experience]]
   title = "Teaching Assistant"
   company = "Western Kentucky University"
@@ -27,7 +58,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching Calculus 1 recitation class
+  * Teaching Calculus recitation class
   * Grading
   """
 
