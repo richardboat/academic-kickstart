@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Grading Health economics I
-  *Grading Principles of macro-economics
+  * Grading Principles of macro-economics
   """
   
   [[experience]]
@@ -43,7 +43,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Research assistant to Dr. Daniel Rees
-  *Grading Principles of macro-economics
   """
   
   
