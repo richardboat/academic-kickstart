@@ -69,15 +69,4 @@ date_format = "Jan 2006"
   date_end = "2020-07-07"
   description = ""
   
-    
-[[item]]
-  organization = "SAS"
-  organization_url = "https://www.sas.com/en_us/certification.html"
-  title = "SAS Certified Specialist: Base Programming Using SAS 9.4"
-  title = "SAS1 Certified Specialist: Base Programming Using SAS 9.4"
-  url = ""
-  certificate_url = "https://www.credly.com/badges/a1ad8a6a-7836-4ec5-a228-ded32ce5ea93/public_url"
-  date_start = "2021-06-20"
-  date_end = "2021-07-017"
-  description = ""
 +++
