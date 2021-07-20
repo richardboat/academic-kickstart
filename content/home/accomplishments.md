@@ -22,9 +22,9 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "SAS"
+  organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "SAS Certified Specialist: Base Programming Using SAS 9.4"
+  title = "Data Scientist Toolbox"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/records/7SQ4A5FGVPB6"
   date_start = "2020-02-20"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "SAS"
   organization_url = """https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html"""
-  title = "SAS Certified Specialist: Base Programming Using SAS 9.4"
+  title = """SAS Certified Specialist: Base Programming Using SAS 9.4"""
   url = ""
   certificate_url = "https://www.credly.com/badges/a1ad8a6a-7836-4ec5-a228-ded32ce5ea93/public_url"
   date_start = "2021-06-20"
