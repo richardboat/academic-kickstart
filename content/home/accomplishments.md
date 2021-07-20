@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Coursera"
+  organization = "SAS"
   organization_url = "https://www.coursera.org"
   title = "SAS Certified Specialist: Base Programming Using SAS 9.4"
   url = ""
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "SAS"
-  organization_url = "https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html"
+  organization_url = """https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html"""
   title = "SAS Certified Specialist: Base Programming Using SAS 9.4"
   url = ""
   certificate_url = "https://www.credly.com/badges/a1ad8a6a-7836-4ec5-a228-ded32ce5ea93/public_url"
