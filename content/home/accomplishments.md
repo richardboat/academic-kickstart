@@ -32,16 +32,6 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "The Data Scientist's toolbox"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/records/7SQ4A5FGVPB6"
-  date_start = "2020-02-20"
-  date_end = "2020-04-06"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
   title = "Getting and Cleaning Data"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/records/DCFTQX2A7BYV"
