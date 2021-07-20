@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "The Data Scientist's toolbox"
+  title = "SAS Certified Specialist: Base Programming Using SAS 9.4"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/records/7SQ4A5FGVPB6"
   date_start = "2020-02-20"
