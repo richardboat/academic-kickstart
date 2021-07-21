@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Richard Boateng
+name: Richard Adjei-Boateng
 
 # Username (this should match the folder name)
 authors:
@@ -10,21 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Mathematics
+role: PhD. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Western Kentucky University
-  url: ""
+- name: University of Colorado, Denver
+  url: "https://www.ucdenver.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include copula modeling, statistical inferential study, causal and effect study and data science research.
 
 interests:
 - Micro and Macro Economics analysis
-- Data Science
 - Econometrics
+- Data Science
+- Health Economics
 - Machine learning
+- Copula modeling
 
 education:
   courses:
@@ -69,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Currently, I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also, I am a second year Economics PhD.(Health Economics) student at the university of Colorado, Denver. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
+Currently, I am a second year Economics PhD.(Health Economics) student at the university of Colorado, Denver. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
 I am very much passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering
 
 
