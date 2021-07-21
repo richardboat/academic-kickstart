@@ -18,7 +18,8 @@ organizations:
   url: "https://www.ucdenver.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical modeling and application of econometric techniques to study the causal impacts of health care interventions.
+bio:
+- My research interests include mathematical modeling and application of econometric     techniques to study the causal impacts of health care interventions.
 
 interests:
 - Micro and Macro Economics analysis
