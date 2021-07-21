@@ -81,23 +81,23 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "richard.adjei-boateng053@topper.wku.edu"
+email = "richard.adjei-boateng@ucdenver.edu"
 phone = "2707452052-office"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "E 14th Avenue", city = "Bowling Green", region = "KY", postcode = "42101", country = "United States", country_code = "US"}
+address = {street = "1380 Lawrence Street", city = "Denver", region = "CO", postcode = "80204", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.9873", longitude = "86.4500"}
+coordinates = {latitude = "39.746299", longitude = "-104.999515"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building(2nd floor)  and take the elevator to the 4th floor. Enter Office 4137."
+directions = "Suite 470."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 11:00-Spring 2020", "Thursday 11:30 to 12:30-spring 2020"]
+office_hours = ["TBD"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
