@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Health Economics Data and Cost Effectiveness Analyst"
+  company = "University of Colorado, Denver|Anshutz"
+  company_url = "https://medschool.cuanschutz.edu/accords/cores-and-programs/the-navlab/who-we-are"
+  location = "Colorado, Anshutz"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data analysis
+  * Cost Effectiveness Analysis
+  """
+
+[[experience]]
   title = "Teaching Assistant"
   company = "University of Colorado, Denver"
   company_url = ""

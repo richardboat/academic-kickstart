@@ -27,6 +27,7 @@ interests:
 - Health Economics
 - Machine learning
 - Copula modeling
+- Health care Benefits and Cost Analysis
 
 education:
   courses:
@@ -74,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am a second year Economics PhD.(Health Economics) student at the university of Colorado, Denver. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  a few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
+Currently, I am a third year Economics Ph.D.(Health Economics) student at the university of Colorado, Denver|Anshutz. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  a few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
 I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering.
 
 
