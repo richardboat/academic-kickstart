@@ -1,87 +1,50 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Experience"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-[[experience]]
-  title = "Health Economics Data and Cost Effectiveness Analyst"
-  company = "University of Colorado, Denver|Anshutz"
-  company_url = "https://medschool.cuanschutz.edu/accords/cores-and-programs/the-navlab/who-we-are"
-  location = "Colorado, Anshutz"
-  date_start = "2022-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Data analysis
-  * Cost Effectiveness Analysis
-  """
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
-[[experience]]
-  title = "Teaching Assistant"
-  company = "University of Colorado, Denver"
-  company_url = ""
-  location = "Colorado"
-  date_start = "2019-08-20"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Grading Health economics I
-  * Grading Principles of macro-economics
-  """
-  
-  [[experience]]
-  title = "Research Assistant"
-  company = "University of Colorado, Denver"
-  company_url = ""
-  location = "Colorado"
-  date_start = "2019-08-20"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Research assistant to Dr. Daniel Rees
-  """
-  
-  
-
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Western Kentucky University"
-  company_url = ""
-  location = "Kentucky"
-  date_start = "2018-08-07"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Teaching Calculus recitation class
-  * Grading
-  """
-
-[[experience]]
-  title = "Teacher"
-  company = "Ideal College"
-  company_url = ""
-  location = "Ghana"
-  date_start = "2016-09-01"
-  date_end = "2018-04-01"
-  description = """Taught high school Economics, Mathematics and Government."""
-
-+++
+design:
+  columns: '2'
+---

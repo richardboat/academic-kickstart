@@ -1,83 +1,77 @@
 ---
 # Display name
-name: Richard Adjei-Boateng
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: PhD. Student (Health Economics).
+# Role/position/tagline
+role: Professor of Artificial Intelligence
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Colorado, Denver
-  url: "https://www.ucdenver.edu/"
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical modeling and application of econometric     techniques to study the causal impacts of health care interventions.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+# Interests to show in About widget
 interests:
-- Micro and Macro Economics analysis
-- Econometrics
-- Data Science
-- Health Economics
-- Machine learning
-- Copula modeling
-- Health care Benefits and Cost Analysis
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
+# Education to show in About widget
 education:
   courses:
-  - course: PhD. Applied Economics
-    institution: University of Colorado, Denver
-    year: 2024
-  - course: MS. Mathematical Economics
-    institution: Western Kentucky University
-    year: 2020
-  - course: BA. Economics and Mathematics
-    institution: University of Cape Coast
-    year: 2016
- 
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/richardboat
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- #- icon: cv
-   #icon_pack: ai
-   #link: static/files/cv.pdf
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-Currently, I am a third year Economics Ph.D.(Health Economics) student at the university of Colorado, Denver|Anshutz. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  a few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
-I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-
-
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

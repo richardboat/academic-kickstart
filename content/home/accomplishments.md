@@ -1,94 +1,53 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Accomplish&shy;ments'
+subtitle:
 
 # Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
+    url: ''
+  - certificate_url: https://www.edx.org
+    date_end: ''
+    date_start: '2021-01-01'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: edX
+    organization_url: https://www.edx.org
+    title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
+    url: ''
 
-
-[[item]]
-  organization = "WKU"
-  organization_url = "http://catalog.wku.edu/graduate/business/economics/data-analytics-certificate/"
-  title = "Economic Data Analytics Certificate"
-  url = ""
-  certificate_url = "http://catalog.wku.edu/graduate/business/economics/data-analytics-certificate/"
-  date_start = "2018-07-23"
-  date_end = "2020-04-11"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Data Scientist Toolbox"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/records/7SQ4A5FGVPB6"
-  date_start = "2020-02-20"
-  date_end = "2020-04-06"
-  description = ""
-
-
-[[item]]
-  organization = "SAS"
-  organization_url = """https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html"""
-  title = """SAS Certified Specialist: Base Programming Using SAS 9.4"""
-  url = ""
-  certificate_url = "https://www.credly.com/badges/a1ad8a6a-7836-4ec5-a228-ded32ce5ea93/public_url"
-  date_start = "2021-06-20"
-  date_end = "2021-07-18"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Getting and Cleaning Data"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/records/DCFTQX2A7BYV"
-  date_start = "2020-02-03"
-  date_end = "2020-04-15"
-  description = ""
-  
-[[item]]
-  organization = "Udemy"
-  organization_url = "https://www.datacamp.com"
-  title = "SAS programming Complete; Learn SAS and become a Data Ninja"
-  url = ""
-  certificate_url = "https://www.udemy.com/certificate/UC-3a26d092-0369-4f6c-8d87-3ec201471a01/"
-  date_start = "2020-02-02"
-  date_end = "2020-03-27"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Reproducible Research"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/records/JKEBWCWSUP5N"
-  date_start = "2020-03-20"
-  date_end = "2020-05-01"
-  description = ""
-  
-  
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "R Programming"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/records/4D8ZNXVF64Y4"
-  date_start = "2020-06-20"
-  date_end = "2020-07-07"
-  description = ""
-  
-+++
+design:
+  columns: '2'
+---
