@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Richard Adjei-Boateng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research and Teaching Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
