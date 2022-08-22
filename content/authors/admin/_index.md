@@ -6,34 +6,38 @@ title: Richard Adjei-Boateng
 superuser: true
 
 # Role/position/tagline
-role: Research and Teaching Assistant
+role: PhD. Student (Health Economics).
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Colorado, Denver
+    url: https://www.ucdenver.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mathematical modeling and application of econometric  techniques to study the causal impacts of health care interventions.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Micro and Macro Economics analysis
+  - Econometrics
+  - Data Science
+  - Health Economics
+  - Machine learning
+  - Copula modeling
+  - Health Benefits and Cost Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: Masters in Mathematics
-      institution: WKU
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD. Applied Economics
+    institution: University of Colorado, Denver
+    year: 2024
+  - course: MS. Mathematics (Mathematical Economics)
+    institution: Western Kentucky University
+    year: 2020
+  - course: BA. Economics and Mathematics
+    institution: University of Cape Coast
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +74,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am a third year Economics Ph.D.(Health Economics) student at the university of Colorado, Denver|Anshutz. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  a few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
+I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
