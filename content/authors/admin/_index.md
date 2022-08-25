@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Richard Adjei-Boateng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: P.h.D
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Colorado Denver|Anshutz
+    url: https://clas.ucdenver.edu/economics/richard-adjei-boateng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mathematical modeling and application of econometric  technique.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Micro and Macro Economics analysis
+  - Econometrics
+  - Data Science
+  - Health Economics
+  - Machine learning
+  - Copula modeling
+  - Health care Benefits and Cost Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD. Applied Economics
+    institution: University of Colorado, Denver
+    year: 2024
+  - course: MS. Mathematical Economics
+    institution: Western Kentucky University
+    year: 2020
+  - course: BA. Economics and Mathematics
+    institution: University of Cape Coast
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,10 +55,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/richardboat
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/richard-adjei-boateng-8b71a7117/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +74,9 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am a third year Economics Ph.D. (Health Economics) student at the university of Colorado, Denver|Anshutz. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  a few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
+I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
