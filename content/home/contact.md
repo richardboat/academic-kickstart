@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: richard.adjei-boateng@ucdenver.edu
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1380 Lawrence Street, Suite 470
+    city: Denver
+    region: CO
+    postcode: '80204'
     country: United States
     country_code: US
   coordinates:
