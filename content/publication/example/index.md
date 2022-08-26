@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'A static mixed Copula approach paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Richard Adjei-Boateng
 
 # Author notes (optional)
 author_notes:
@@ -26,10 +26,34 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Academia.edu and Topscholar*
+publication_short: In *ACA*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
+The purpose of this thesis is to study the dependence structure of exchange rate
+pairs using a mixture of copula as opposed to a single copula approach. Mixed
+copula models have the ability to generate dependence structures that do not belong
+to existing copula families. The flexibility in choosing component copulas in this
+mixture model aids the construction of a system that is simultaneously parsimonious
+and flexible enough to generate most dependence patterns in exchange rate data.
+Furthermore, the method of mixture copulas facilitates the separation of both the
+structure and degree of dependence, concepts that are respectively embodied in two
+essential and distinct parameters for the study of dependence – the weight parameters
+and the association parameters. The model proposed was constructed to capture
+various dependence patterns using carefully chosen mixtures of Gaussian, Gumbel and
+Clayton copulas. We used a two stage semi-parametric approach by first estimating
+the marginal distributions of each exchange rate pair non-parametrically, and then
+plugging in the empirical CDF’s into the copula. The empirical findings of this
+experimental study shows a high tendency that each of the exchange rate pairs would
+either appreciate or depreciate together against the US dollars and that relationship is
+stronger than that implied by the Gaussian assumption. Our proposed copula mixture
+model therefore adequately represents the dependence function which appropriately
+captures the dependence structure between each of the exchange rate pairs in this
+experimental study. The implications for these findings will be useful for central
+bank’s monetary policies aimed at exchange rate price stabilization as well as for
+other stake holders in the exchange rates business. It can also be applied to a wide
+range of analysis in economics, finance, health, engineering, biology and other related
+disciplines.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
