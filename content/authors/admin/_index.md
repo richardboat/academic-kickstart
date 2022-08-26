@@ -6,7 +6,7 @@ title: Richard Adjei-Boateng
 superuser: true
 
 # Role/position/tagline
-role: P.h.D
+role: P.h.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://clas.ucdenver.edu/economics/richard-adjei-boateng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical modeling and application of econometric  technique.
+bio: My research interests include mathematical modeling and application of econometric  techniques to solve health care problems.
 
 # Interests to show in About widget
 interests:
