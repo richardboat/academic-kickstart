@@ -1,5 +1,5 @@
 ---
-title: 'Interdependence across various exchange rates: A mixed copula approach'
+title: 'A Bibliometric analysis of research status on Copula from 2000 to 2019'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,16 +23,16 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['7']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Academia.edu and Top SHOLAR*
-publication_short: In *ACADEMIA*
+publication: In *Submission*
+publication_short: In *Submission*
 
-abstract: The purpose of this thesis is to study the dependence structure of exchange rates pairs using a mixture of copula as opposed to a single copula approach.
+abstract: Copula(s), together with its applications, have received world wide attention. Research about copulas have flourished in recent years. This paper aims to present a detailed bibliometric analysis of the research status in the domain of copula, using all copula-related publications obtained from the Web of Science database from the years 2000 to 2019 as the research sample. General characteristics about document type, language, year of publication,  country/territory of publication, keywords, institution and authors are presented. Collaboration and dominance situations among authors, institutes, and countries are also studied. Citation analysis are conducted to help researchers quickly understand the copula research area and its development trajectory. In addition, we proposed and concluded the most concerned topics using visualization networks and clustering analysis based on high-frequency keywords. The results of this paper will help researchers grasp the current research status in copula studies and provide a supporting role for its future development.
 
 # Summary. An optional shortened abstract.
-summary: The purpose of this thesis is to study the dependence structure of exchange rates pairs using a mixture of copula as opposed to a single copula approach..
+summary: Copula(s), together with its applications, have received world wide attention. Research about copulas have flourished in recent years. This paper aims to present a detailed bibliometric analysis of the research status in the domain of copulas.
 
 tags: []
 
@@ -66,14 +66,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - bibliometrix
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: bibliometrix
 ---
 
 {{% callout note %}}
