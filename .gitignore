@@ -2,6 +2,15 @@
 .idea/
 
 # Hugo
-resources/
-public/
+/resources/
+/public/
 .Rproj.user
+
+
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+
+.hugo_build.lock
