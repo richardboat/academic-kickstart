@@ -1,5 +1,6 @@
 ---
 # Generate Wowchemy CMS
+active : false
 type: wowchemycms
 private: true
 outputs:

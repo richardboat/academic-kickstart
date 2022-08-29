@@ -1,4 +1,5 @@
 ---
+active : false
 title: Richard's Example Talk
 
 event: Richard and Wowchemy Conference
