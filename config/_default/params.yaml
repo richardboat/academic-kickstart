@@ -44,8 +44,8 @@ header:
 footer:
   copyright:
     notice: 
-    license:
-      enable: false
+    license: 
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -75,7 +75,7 @@ features:
     branch: master
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
