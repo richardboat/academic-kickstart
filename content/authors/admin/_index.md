@@ -6,7 +6,7 @@ title: Richard Boateng
 superuser: true
 
 # Role/position/tagline
-role: P.h.D Student
+role: Data analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,7 +74,7 @@ email: 'richard.adjei-boateng@ucdenver.edu'
 highlight_name: true
 ---
 
-Currently, I am a third year Economics Ph.D. (Health Economics) student at the university of Colorado, Denver|Anshutz. I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. Also,  a few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
+I hold an MS degree in Mathematics (Mathematical Economics) from Western Kentucky University, USA. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
 I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering.
 
 
