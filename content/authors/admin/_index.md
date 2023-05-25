@@ -6,7 +6,7 @@ title: Richard Boateng
 superuser: true
 
 # Role/position/tagline
-role: Data analytics
+role: Health Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://clas.ucdenver.edu/economics/richard-adjei-boateng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical modeling and application of econometric  techniques to solve health care problems and more.
+bio: My research interests include mathematical modeling and application of econometric  techniques to solve health care problems.
 
 # Interests to show in About widget
 interests:
@@ -74,8 +74,7 @@ email: 'richard.adjei-boateng@ucdenver.edu'
 highlight_name: true
 ---
 
-I hold an MS degree in Mathematics from Western Kentucky University, USA. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana.
-I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in future. During my free time, I enjoy nature, active sports, music, traveling and volunteering.
+I hold an MS degree in Mathematics from Western Kentucky University, USA. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana. I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in the future. During my free time, I enjoy nature, active sports, music, traveling, quality family time and volunteering.
 
 
 
