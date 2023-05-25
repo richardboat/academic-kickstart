@@ -31,13 +31,16 @@ education:
   courses:
   - course: PhD. Applied Economics
     institution: University of Colorado
-    year: 2024
+    year: 
+  - course: MS Health Economics
+    institution: University of Colorado
+    year: 
   - course: MS. Mathematical Economics
     institution: Western Kentucky University
-    year: 2020
+    year: 
   - course: BA. Economics and Mathematics
     institution: University of Cape Coast
-    year: 2016
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +77,7 @@ email: 'richard.adjei-boateng@ucdenver.edu'
 highlight_name: true
 ---
 
-I hold an MS degree in Mathematics from Western Kentucky University, USA. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana. I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in the future. During my free time, I enjoy nature, active sports, music, traveling, quality family time and volunteering.
+I hold an MS degree in Mathematics from Western Kentucky University, USA. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana. Currently, I am a 4th Year PhD. student in Health Economics. I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in the future. During my free time, I enjoy nature, active sports, music, traveling, quality family time and volunteering.
 
 
 
