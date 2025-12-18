@@ -6,7 +6,7 @@ title: Richard Boateng
 superuser: true
 
 # Role/position/tagline
-role: Health Economist
+role: Health Economics and Outcomes Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,29 +18,29 @@ bio: My research interests include mathematical modeling and application of econ
 
 # Interests to show in About widget
 interests:
-  - Micro and Macro Economics analysis
+  - Health Economics
+  - Labor, Public health insurance
   - Econometrics
   - Data Science
-  - Health Economics
   - Machine learning
   - Copula modeling
-  - Health care Benefits and Cost Effectiveness Analysis
+  - Benefits, Cost and Effectiveness in Health Care
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD. Applied Economics
+  - course: Ph.D. Health Economics
     institution: University of Colorado
-    year: 
+    year: 2025
   - course: MS Health Economics
     institution: University of Colorado
-    year: 
+    year: 2023
   - course: MS. Mathematical Economics
     institution: Western Kentucky University
-    year: 
+    year: 2020
   - course: BA. Economics and Mathematics
     institution: University of Cape Coast
-    year: 
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,8 +76,16 @@ email: 'richard.adjei-boateng@ucdenver.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+My work focuses on health economics and outcomes research (HEOR), cost-effectiveness analysis, and applied causal inference. I specialize in evaluating the economic, clinical, and labor market impacts of health policies and healthcare interventions using real-world and administrative data.
 
-I hold an MS degree in Mathematics from Western Kentucky University, USA. A few years back, I acquired a Bachelors degree from the Departments of Economics and Mathematics at the University of Cape Coast, Ghana. Currently, I am a 4th Year PhD. student in Health Economics. I am immensely passionate about the field of Economics and Data Science and aspire to be an Economist in the future. During my free time, I enjoy nature, active sports, music, traveling, quality family time and volunteering.
+I am a recent PhD graduate in Health Economics. My doctoral research consists of three dissertation chapters. The first chapter estimates the causal impact of the Affordable Care Act’s Medicaid expansion on job security using longitudinal panel data and quasi-experimental methods, including difference-in-differences and individual fixed effects, combining state level variation in the Medicaid expansion and individual level heterogeneity in identifying the effect of the policy. 
+
+My second chapter analyzes the impact of Medicaid expansion on hospital reported costs for giving care, exploiting cross-county variation in pre-expansion uninsurance rates to identify treatment effects of the policy. 
+
+My third chapter examines the causal effect of secondary education on TEEN health outcomes (doctors’ visits, probability of health event and duration of health event) using  proximity to the nearest high school from an individual’s residence as an instrument for completing at least one year of high school education.
+
+My work draws on large administrative and observational/survey datasets such as PSID, SPARCS and the Ghana Living Standards Survey datasets. Across projects, my goal is to translate methodologically rigorous evidence into decision-relevant insights for policymakers, healthcare organizations, and life sciences stakeholders.
+
 
 
 
