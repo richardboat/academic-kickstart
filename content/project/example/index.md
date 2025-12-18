@@ -1,9 +1,8 @@
 ---
-title: Estimating the Dynamic effect of education on Wages for Economist.
-summary: Econometric analysis of causal effect of education on wages.
+title: Sample project of statiscal work I do.
 #tags:
-#  - Econometrics
-date: '2016-04-27T00:00:00Z'
+#  - Statistics
+date: '2020-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
