@@ -1,5 +1,5 @@
 ---
-title: Sample project of statiscal work I do.
+title: Sample Project of my Statistical work.
 #tags:
 #  - Statistics
 date: '2020-04-27T00:00:00Z'
